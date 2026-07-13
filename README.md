@@ -21,7 +21,7 @@
 
 <!-- MasterHead -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/renier-towfu/renier-towfu/main/spidey.gif" alt="Spidey GIF"/>
+  <img width="100%" src="https://raw.githubusercontent.com/renier-towfu/renier-towfu/main/download.gif" alt="Spidey GIF"/>
 </div>
 
 <!-- Greeting -->
