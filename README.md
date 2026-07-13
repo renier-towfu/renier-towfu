@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="left" alt="coding-gif" width="400" src="https://raw.githubusercontent.com/renier-towfu/renier-towfu/main/gitgif.gif" />
+<img align="left" alt="coding-gif" width="300" src="https://raw.githubusercontent.com/renier-towfu/renier-towfu/main/gitgif.gif" />
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
