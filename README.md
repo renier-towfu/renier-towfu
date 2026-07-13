@@ -20,9 +20,9 @@
 -->
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img width="100%" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
-</a>
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/renier-towfu/renier-towfu/main/spidey.gif" alt="Spidey GIF"/>
+</div>
 
 <!-- Greeting -->
 <!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
