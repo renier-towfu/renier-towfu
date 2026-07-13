@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+<img align="left" alt="coding-gif" width="400" src="https://raw.githubusercontent.com/renier-towfu/renier-towfu/main/gitgif.gif" />
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
