@@ -1,85 +1,181 @@
-<!-- MasterHead -->
+<!-- Header Wave (Commented Out)
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Renier%20Tallador&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descAlignY=55&descSize=18"/>
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
+  <br>
 </div>
+-->
+
+<!-- Footer Wave (Commented Out)
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
+    width="100%" 
+  />
+</p>
+-->
+
+<!-- MasterHead -->
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
+  <img width="100%" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
+</a>
+
+<!-- Greeting -->
+<!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
+
+
 
 <div align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=renier-towfu&label=Profile%20views&color=1e3c72&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" />
+  
+  <a href="https://github.com/JoshuaThadi" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+  
+  <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
 
   <!-- Total Stars -->
-  <a href="https://github.com/renier-towfu?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/renier-towfu?style=for-the-badge&label=Stars&color=2a5298&logo=github" /></a>
+  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
   <!-- Followers -->
-  <a href="https://github.com/renier-towfu?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/renier-towfu?style=for-the-badge&label=Followers&color=1e3c72&logo=github" /></a>
+  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
+
+  <a style="display:block;" href="https://github.com/joshuathadi?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/joshuathadi" /></a>
+  
+</div>
+
+<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+
+<!-- About Me -->
+<h3 align="left">💫 About Me</h3>
+<p>
+  🌱 I am currently working on and developing my programming skills.<br>
+  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
+  💬 Skills I acquire in programming languages such as Python, SQL.<br>
+  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
+</p>
+
+<h3 align="left">🧲 Drop me a line:</h3>
+<div align="left">
+  <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
+  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
+  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="37px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
 <br>
-
-<!-- About Me -->
-<h3 align="left">About Me</h3>
-<p>
-  Computer Science student at Cavite State University (CCAT Campus), graduating 2026.<br>
-  Hands-on cloud engineering experience — AWS (EC2, Terraform, DynamoDB, ALB, Route 53), gained during my Cloud Engineer internship at eCloud Valley Philippines.<br>
-  Building MoodSentinel, my thesis project — an aspect-based sentiment & emotion analysis system for Filipino/Taglish text, combining PyABSA, RoBERTa, and a custom fine-tuned emotion classifier.<br>
-  Comfortable across the stack: FastAPI, React Native/Expo, Python, and cloud infrastructure.<br>
-  Interested in NLP, AI/ML, and applying tech to Philippine-specific problems.<br>
-</p>
-
-<h3 align="left">Connect with me</h3>
-<div align="left">
-  <a href="mailto:reniertallador09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/talladorrenier" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
-
 <br>
 
 <!-- Languages & Tools -->
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,aws,terraform,git,github,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,pytorch,tensorflow,figma,linux,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
 
 <br>
+
+<!-- GitHub Status -->
+<!--<h3 align="center">🌱 GitHub Status</h3>
+<div align="center">
+   <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> 
+<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="." />
+</div>-->
+
+
+
+<!-- Best Repositories -->
+<div align="center">
+  <h3>⭐️ Interesting Repositories</h3>
+  <p align="center">
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
+<a href="https://github.com/JoshuaThadi/Void-OSE">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
+<a href="https://github.com/JoshuaThadi/IDE-Cosmo">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" /></a>
+<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" /></a>
+<a href="https://github.com/JoshuaThadi/PixelVault">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" /></a>
+<a href="https://github.com/JoshuaThadi/My-Projects">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" /></a>
+  </p>
+</div>
+
 
 <!-- Tech Stack -->
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">💻 Tech Stack</h3>
 <div align="center">
 
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
+<!-- Languages -->
+
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-<a href="https://www.terraform.io/" target="_blank"><img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-<a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a href="https://www.prisma.io" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
+<a href="https://supabase.com" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+<a href="https://clerk.com" target="_blank">
+    <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /></a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="https://scipy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"></a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+<a href="https://plotly.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
+<a href="https://keras.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"></a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+<a href="https://www.anaconda.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+
+
 
 </div>
 
-<br>
-
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-   <img width="420" src="https://github-readme-stats.vercel.app/api?username=renier-towfu&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=renier-towfu&theme=nord&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<br>
+
+
+<!-- Support -->
+<h3 align="center">💰 Support Me</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/joshuathadi">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+<!-- Ending -->
+<img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
 <p align="center">
-  This README belongs to <strong>@renier-towfu</strong>
+  ⚠️ This README is uniquely designed by <strong>@JoshuaThadi.</strong>
 </p>
