@@ -1,6 +1,5 @@
 <!-- MasterHead -->
 <div align="center">
-  <h2>Hi, I'm Renier Tallador</h2>
   <img width="100%" src="https://raw.githubusercontent.com/renier-towfu/renier-towfu/main/reni.gif" alt="Header GIF"/>
 </div>
 
@@ -19,15 +18,18 @@
 
 <br>
 
+<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+
 <!-- About Me -->
-<h3 align="left">About Me</h3>
+<h3 align="left">💫 About Me</h3>
 <p>
-  Computer Science student at Cavite State University (CCAT Campus), graduating 2026.<br>
-  Hands-on cloud engineering experience — AWS (EC2, Terraform, DynamoDB, ALB, Route 53), gained during my Cloud Engineer internship at eCloud Valley Philippines.<br>
-  Building MoodSentinel, my thesis project — an aspect-based sentiment & emotion analysis system for Filipino/Taglish text, combining PyABSA, RoBERTa, and a custom fine-tuned emotion classifier.<br>
-  Comfortable across the stack: FastAPI, React Native/Expo, Python, and cloud infrastructure.<br>
-  Interested in NLP, AI/ML, and applying tech to Philippine-specific problems.<br>
+  🌱 Computer Science graduate at Cavite State University.<br>
+  🔭 Hands-on cloud engineering experience — AWS (EC2, Terraform, DynamoDB, ALB, Route 53), gained during my Cloud Engineer internship at eCloud Valley Philippines.<br>
+  💬 Skills I acquire in programming languages such as Python, SQL.<br>
+  ⚡ Interested in NLP, AI/ML,Data Engineering, and applying tech to Philippine-specific problems.<br>
 </p>
+
+
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
