@@ -26,10 +26,8 @@
   🌱 Computer Science graduate at Cavite State University.<br>
   🔭 Hands-on cloud engineering experience — AWS (EC2, Terraform, DynamoDB, ALB, Route 53), gained during my Cloud Engineer internship at eCloud Valley Philippines.<br>
   💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interested in NLP, AI/ML,Data Engineering, and applying tech to Philippine-specific problems.<br>
+  ⚡ Interested in NLP, AI/ML, Data Engineering, and applying tech to Philippine-specific problems.<br>
 </p>
-
-
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
@@ -69,8 +67,8 @@
 <!-- GitHub Stats -->
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-   <img width="420" src="https://github-readme-stats.vercel.app/api?username=renier-towfu&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=renier-towfu&theme=nord&hide_border=false" alt="GitHub Streak" />
+   <img width="420" src="https://github-readme-stats-fast.vercel.app/api?username=renier-towfu&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+   <img width="420" src="https://github-readme-stats-fast.vercel.app/api?username=renier-towfu&show=streak&theme=nord&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
